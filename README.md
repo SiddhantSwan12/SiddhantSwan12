@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=230&color=0:010409,100:00B32D&text=SIDDHANT%20SWAN&fontSize=54&fontColor=00FF41&fontAlignY=36&desc=%5B%20AI%2FML%20ENGINEER%20%C2%B7%20FULL-STACK%20DEVELOPER%20%C2%B7%20RAG%20%26%20GENAI%20SYSTEMS%20%5D&descSize=15&descAlign=50&descAlignY=56&animation=fadeIn&stroke=00FF41&strokeWidth=1" width="100%" alt="Siddhant Swan" />
+  <img src="./assets/terminal-header.svg" width="100%" alt="Siddhant Swan" />
 </div>
 
 <div align="center">
