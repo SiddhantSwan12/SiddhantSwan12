@@ -1,0 +1,58 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#101522"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="230" y1="0" x2="970" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientTransform="translate(118 168) rotate(0) scale(235 235)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00D4FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientTransform="translate(1080 150) rotate(180) scale(245 245)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#C9D1D9" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#glowLeft)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#glowRight)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="21.25" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- restrained system motifs -->
+  <g stroke="#00D4FF" stroke-opacity="0.36" stroke-width="1.5">
+    <path d="M48 218L112 177L169 207L224 150"/>
+    <path d="M48 252L112 211L169 241L235 193"/>
+    <circle cx="48" cy="218" r="4" fill="#00D4FF"/>
+    <circle cx="112" cy="177" r="4" fill="#0D1117"/>
+    <circle cx="169" cy="207" r="4" fill="#0D1117"/>
+    <circle cx="224" cy="150" r="4" fill="#00D4FF"/>
+  </g>
+  <g stroke="#8B5CF6" stroke-opacity="0.36" stroke-width="1.5">
+    <path d="M976 131L1031 92L1092 122L1152 78"/>
+    <path d="M965 178L1031 138L1092 168L1152 124"/>
+    <circle cx="976" cy="131" r="4" fill="#8B5CF6"/>
+    <circle cx="1031" cy="92" r="4" fill="#0D1117"/>
+    <circle cx="1092" cy="122" r="4" fill="#0D1117"/>
+    <circle cx="1152" cy="78" r="4" fill="#8B5CF6"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="92" fill="#8B949E" font-size="14" font-weight="600" letter-spacing="4">AI SYSTEMS  ·  PRODUCT ENGINEERING  ·  WEB3</text>
+    <text x="600" y="168" fill="#F0F6FC" font-size="62" font-weight="700" letter-spacing="-1.5">Siddhant Swan</text>
+    <text x="600" y="213" fill="#C9D1D9" font-size="20" font-weight="400">Building useful products across models, APIs, and interfaces.</text>
+  </g>
+
+  <rect x="460" y="254" width="280" height="3" rx="1.5" fill="url(#accent)"/>
+  <circle cx="447" cy="255.5" r="3.5" fill="#00D4FF"/>
+  <circle cx="753" cy="255.5" r="3.5" fill="#8B5CF6"/>
+</svg>
