@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title desc">
+  <title id="title">Siddhant Swan</title>
+  <desc id="desc">AI and machine learning engineer, full-stack developer, and builder of RAG and generative AI systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#010409"/>
+      <stop offset="0.7" stop-color="#04140A"/>
+      <stop offset="1" stop-color="#062A12"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00FF41"/>
+      <stop offset="1" stop-color="#00B32D"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#00FF41" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="960" height="230" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="230" fill="url(#bg)"/>
+    <rect width="960" height="230" fill="url(#grid)"/>
+    <path d="M0 0h280L165 230H0z" fill="#00B32D" opacity=".13"/>
+    <path d="M960 0H742L855 230h105z" fill="#00FF41" opacity=".09"/>
+    <path d="M0 0h75L0 150z" fill="#00FF41" opacity=".92"/>
+    <path d="M960 230h-75l75-150z" fill="#00B32D" opacity=".8"/>
+    <path d="M0 205L960 25" stroke="#00B32D" stroke-opacity=".19"/>
+    <path d="M0 219L960 39" stroke="#00FF41" stroke-opacity=".08"/>
+  </g>
+  <rect x="1" y="1" width="958" height="228" rx="17" fill="none" stroke="#00B32D" stroke-width="2"/>
+  <g font-family="Consolas, 'SFMono-Regular', 'Liberation Mono', monospace" text-anchor="middle">
+    <text x="480" y="41" fill="#6E8875" font-size="12" letter-spacing="2">@SIDDHANTSWAN12  /  SYSTEM.IDENTITY</text>
+    <text x="480" y="112" fill="#00FF41" font-size="54" font-weight="800" letter-spacing="3" filter="url(#glow)">SIDDHANT SWAN</text>
+    <rect x="176" y="132" width="608" height="1.5" fill="url(#green)" opacity=".8"/>
+    <text x="480" y="163" fill="#C9D1D9" font-size="15" font-weight="600" letter-spacing="1.2">[ AI/ML ENGINEER · FULL-STACK DEVELOPER · RAG &amp; GENAI SYSTEMS ]</text>
+    <text x="480" y="196" fill="#00B32D" font-size="12">$ build --end-to-end --ship</text>
+  </g>
+</svg>
+
