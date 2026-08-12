@@ -124,26 +124,92 @@ Real-time bottle-cap inspection, object tracking, and segmentation using YOLOv8 
 
 ## Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
 
-<sub>AI & DATA</sub><br>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,postgres,redis&theme=dark" height="40" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, PostgreSQL, Redis" />
-
-<br><br>
-
-<sub>PRODUCT & SYSTEMS</sub><br>
-<img src="https://skillicons.dev/icons?i=fastapi,django,react,nextjs,ts,tailwind,supabase,docker,aws,git,linux,solidity&theme=dark" height="40" alt="FastAPI, Django, React, Next.js, TypeScript, Tailwind CSS, Supabase, Docker, AWS, Git, Linux, Solidity" />
+<sub><strong>AI / GENAI</strong></sub>
 
 <br><br>
 
-<sub>SPECIALIST</sub><br>
-<img src="https://cdn.simpleicons.org/qiskit/8A3FFC" height="34" title="Qiskit" alt="Qiskit" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/google/4285F4" height="34" title="Cirq" alt="Cirq" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/siemens/00CCCC" height="34" title="Siemens S7 PLC" alt="Siemens" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" height="38" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/00D4FF" height="31" title="LangChain" alt="LangChain" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="31" title="Gemini" alt="Gemini" />
 
-</div>
+</td>
+<td width="50%" align="center" valign="middle">
+
+<sub><strong>PRODUCT ENGINEERING</strong></sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,flask,react,nextjs,ts,js,tailwind&theme=dark" height="36" alt="FastAPI, Django, Node.js, Express, Flask, React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<sub><strong>DATA / ANALYTICS</strong></sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,supabase&theme=dark" height="38" alt="PostgreSQL, MongoDB, Redis, SQLite, Supabase" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="29" title="Pandas" alt="Pandas" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/numpy/4D77CF" height="29" title="NumPy" alt="NumPy" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="29" title="Streamlit" alt="Streamlit" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="29" title="Plotly" alt="Plotly" />
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<sub><strong>CLOUD / DEVOPS</strong></sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vercel,bash&theme=dark" height="38" alt="Docker, AWS, Git, GitHub, Linux, Vercel, Bash" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<sub><strong>WEB3</strong></sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" height="38" title="Solidity" alt="Solidity" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ethereum/627EEA" height="31" title="Ethereum" alt="Ethereum" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/polygon/8247E5" height="31" title="Polygon" alt="Polygon" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ipfs/65C2CB" height="31" title="IPFS" alt="IPFS" />
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<sub><strong>QUANTUM / INDUSTRIAL</strong></sub>
+
+<br><br>
+
+<img src="https://cdn.simpleicons.org/qiskit/8A3FFC" height="32" title="Qiskit" alt="Qiskit" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/google/4285F4" height="32" title="Cirq" alt="Cirq" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/siemens/00CCCC" height="32" title="Siemens S7 PLC" alt="Siemens" />
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Core tools shown · project-specific frameworks and integrations are listed with each build.</sub></p>
 
 ## Research & learning
 
