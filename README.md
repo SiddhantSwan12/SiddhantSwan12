@@ -9,8 +9,6 @@
 <a href="https://www.google.com/maps/place/Pune"><img src="./assets/meta-location.svg" height="42" alt="Pune, India" /></a>&nbsp;
 <a href="mailto:vinit28972@gmail.com"><img src="./assets/meta-status.svg" height="42" alt="Open to work" /></a>
 
-<br>
-
 <img src="./assets/meta-education.svg" height="44" alt="B.Tech ECE at VIT Pune · GPA 8.31 · Class of 2026" />
 
 </div>
