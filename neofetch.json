@@ -1,9 +1,6 @@
 {
-  "image": "https://raw.githubusercontent.com/SiddhantSwan12/SiddhantSwan12/main/assets/knight-profile.jpg",
+  "image": "https://raw.githubusercontent.com/SiddhantSwan12/SiddhantSwan12/main/assets/knight-profile.jpg?v=2",
   "coloredImage": true,
-  "imageScale": 1.45,
-  "imageOffsetX": "-5%",
-  "imageOffsetY": "12%",
   "backgroundColor": "#ffffff, #010409",
   "separatorColor": "#00B32D, #00B32D",
   "sections": [
