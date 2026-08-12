@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:vinit28972@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white)](https://github.com/SiddhantSwan12/Portfolio)
 [![Location](https://img.shields.io/badge/Pune%2C_India-0D1117?style=flat-square&logo=googlemaps&logoColor=00D4FF)](https://www.google.com/maps/place/Pune)
-![Open to work](https://img.shields.io/badge/Open_to_Work-0D1117?style=flat-square&logo=statuspage&logoColor=3FB950)
+[![Open to work](https://img.shields.io/badge/Open_to_Work-0D1117?style=flat-square&logo=statuspage&logoColor=3FB950)](mailto:vinit28972@gmail.com)
 
 **B.Tech ECE · VIT Pune · 8.31 GPA · Class of 2026**
 
@@ -40,6 +40,10 @@ Routes questions across finance, health, and education knowledge domains with vo
 
 <sub>LangChain · FastAPI · pgvector · Gemini · Next.js</sub>
 
+<br><br>
+
+*Private build · [request a demo](mailto:vinit28972@gmail.com)*
+
 </td>
 <td width="50%" valign="top">
 
@@ -53,22 +57,13 @@ Smart-contract escrow, wallet authentication, encrypted messaging, video rooms, 
 
 <sub>Solidity · Foundry · Polygon · wagmi · Next.js</sub>
 
+<br><br>
+
+[Repository ↗](https://github.com/SiddhantSwan12/AI_Boomi_fair_work)
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### CommunityAI
-
-**Meeting intelligence platform**
-
-Converts speech into structured minutes and action items. Classification tuning reduced manual moderation work.
-
-`90% extraction` · `70% less manual work`
-
-<sub>Whisper · FastAPI · Discord API · React</sub>
-
-</td>
 <td width="50%" valign="top">
 
 ### [Quant Analytics ↗](https://github.com/SiddhantSwan12/quant_analytics_application)
@@ -81,60 +76,42 @@ Streams Binance Futures data and calculates rolling spread, volatility, hedge-ra
 
 <sub>Pandas · Statsmodels · SQLite · Streamlit · Plotly</sub>
 
+<br><br>
+
+[Repository ↗](https://github.com/SiddhantSwan12/quant_analytics_application) · [Live demo ↗](https://siddhantswan.streamlit.app)
+
+</td>
+<td width="50%" valign="top">
+
+### [Vision System ↗](https://github.com/SiddhantSwan12/Computer_Vision_Project)
+
+**Manufacturing quality inspection**
+
+Real-time bottle-cap inspection, object tracking, and segmentation using YOLOv8 and SAM 2.
+
+`Defect detection` · `Real-time tracking`
+
+<sub>Python · OpenCV · PyTorch · YOLOv8 · SAM 2</sub>
+
+<br><br>
+
+[Repository ↗](https://github.com/SiddhantSwan12/Computer_Vision_Project)
+
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>More projects</strong></summary>
+<summary><strong>More work</strong></summary>
 
 <br>
 
+- **CommunityAI** — Meeting intelligence with structured minutes, action items, and moderation automation.
 - **Financial Humanoid Agent** — Multi-channel financial advisor with real-time market analysis.
 - **Oil Spill Detection** — Vessel tracking, anomaly detection, and environmental-impact assessment.
 - **Road Repair Prioritization** — ML-driven infrastructure scheduling for urban planning.
 
 </details>
-
-## Stack
-
-<div align="center">
-
-<sub>AI & DATA</sub>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,postgres,redis&theme=dark" height="44" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, PostgreSQL, Redis" />
-
-<br><br>
-
-<sub>PRODUCT</sub>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,react,nextjs,ts,tailwind,supabase&theme=dark" height="44" alt="FastAPI, Django, React, Next.js, TypeScript, Tailwind CSS, Supabase" />
-
-<br><br>
-
-<sub>SYSTEMS & WEB3</sub>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vercel,solidity&theme=dark" height="44" alt="Docker, AWS, Git, GitHub, Linux, Vercel, Solidity" />
-
-<br><br>
-
-<sub>QUANTUM & INDUSTRIAL</sub>
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/qiskit/8A3FFC" height="40" title="Qiskit" alt="Qiskit" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/google/4285F4" height="40" title="Cirq" alt="Cirq" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/siemens/00CCCC" height="40" title="Siemens S7 PLC" alt="Siemens" />
-
-</div>
 
 ## Experience
 
@@ -144,6 +121,29 @@ Streams Binance Futures data and calculates rolling spread, volatility, hedge-ra
 | **2025** | SOC Analyst · Geek Solutions | Triaged 80+ alerts weekly; Python automation cut manual work by **35%** |
 | **2024** | Consultant · Grant Thornton China | Built a Power BI dashboard and Python/SQL retention analysis |
 | **2024** | Automation · Pranshak Tech | Integrated Cognex vision with a Siemens S7-1200 PLC on a production line |
+
+## Stack
+
+<div align="center">
+
+<sub>AI & DATA</sub><br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,postgres,redis&theme=dark" height="40" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, PostgreSQL, Redis" />
+
+<br><br>
+
+<sub>PRODUCT & SYSTEMS</sub><br>
+<img src="https://skillicons.dev/icons?i=fastapi,django,react,nextjs,ts,tailwind,supabase,docker,aws,git,linux,solidity&theme=dark" height="40" alt="FastAPI, Django, React, Next.js, TypeScript, Tailwind CSS, Supabase, Docker, AWS, Git, Linux, Solidity" />
+
+<br><br>
+
+<sub>SPECIALIST</sub><br>
+<img src="https://cdn.simpleicons.org/qiskit/8A3FFC" height="34" title="Qiskit" alt="Qiskit" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/google/4285F4" height="34" title="Cirq" alt="Cirq" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/siemens/00CCCC" height="34" title="Siemens S7 PLC" alt="Siemens" />
+
+</div>
 
 ## Research & learning
 
