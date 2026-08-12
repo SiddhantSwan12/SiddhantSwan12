@@ -4,12 +4,14 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:vinit28972@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white)](https://github.com/SiddhantSwan12/Portfolio)
-[![Location](https://img.shields.io/badge/Pune%2C_India-0D1117?style=flat-square&logo=googlemaps&logoColor=00D4FF)](https://www.google.com/maps/place/Pune)
-[![Open to work](https://img.shields.io/badge/Open_to_Work-0D1117?style=flat-square&logo=statuspage&logoColor=3FB950)](mailto:vinit28972@gmail.com)
+<a href="mailto:vinit28972@gmail.com"><img src="./assets/meta-email.svg" height="42" alt="Email" /></a>&nbsp;
+<a href="https://github.com/SiddhantSwan12/Portfolio"><img src="./assets/meta-portfolio.svg" height="42" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.google.com/maps/place/Pune"><img src="./assets/meta-location.svg" height="42" alt="Pune, India" /></a>&nbsp;
+<a href="mailto:vinit28972@gmail.com"><img src="./assets/meta-status.svg" height="42" alt="Open to work" /></a>
 
-**B.Tech ECE · VIT Pune · 8.31 GPA · Class of 2026**
+<br>
+
+<img src="./assets/meta-education.svg" height="44" alt="B.Tech ECE at VIT Pune · GPA 8.31 · Class of 2026" />
 
 </div>
 
