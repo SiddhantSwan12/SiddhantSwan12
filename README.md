@@ -9,7 +9,10 @@
 </div>
 
 <div align="center">
-  <img src="./assets/knight-ascii.svg" width="100%" alt="Colored ASCII portrait of Siddhant Swan's knight profile photo with terminal identity card" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/knight-ascii-mobile.svg" />
+    <img src="./assets/knight-ascii.svg" width="100%" alt="Colored ASCII portrait of Siddhant Swan's knight profile photo with terminal identity card" />
+  </picture>
 </div>
 
 <div align="center">
