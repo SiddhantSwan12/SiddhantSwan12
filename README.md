@@ -9,7 +9,6 @@
 </div>
 
 <div align="center">
-  <img src="./assets/knight-ascii.svg" width="100%" alt="Colored ASCII portrait of Siddhant Swan's knight profile photo with terminal identity card" />
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/knight-ascii-mobile.svg" />
     <img src="./assets/knight-ascii.svg" width="100%" alt="Colored ASCII portrait of Siddhant Swan's knight profile photo with terminal identity card" />
@@ -126,7 +125,6 @@ OPEN_TO  : AI/ML Engineering · Full-Stack Development · Data Analytics
 
 <details open>
 <summary><b>▸ FairWork — decentralised freelance marketplace with on-chain escrow</b></summary>
-
 <br />
 
 Wallet-authenticated freelance platform where payment is held in a Solidity escrow contract until delivery is confirmed, with in-app messaging, video calls, and an AI-assisted dispute-analysis pipeline that produces structured reports for contested jobs.
@@ -142,7 +140,6 @@ Wallet-authenticated freelance platform where payment is held in a Solidity escr
 
 <details>
 <summary><b>▸ Athena.ai — multi-domain RAG assistant (finance · health · education)</b></summary>
-
 <br />
 
 Full-stack Retrieval-Augmented Generation assistant that classifies an incoming query by domain, routes it through domain-specific retrieval, and answers from a pgvector-backed knowledge store — with voice-to-text input on the frontend.
@@ -158,7 +155,6 @@ Full-stack Retrieval-Augmented Generation assistant that classifies an incoming 
 
 <details>
 <summary><b>▸ Quant Analytics Dashboard — real-time market data pipeline</b></summary>
-
 <br />
 
 Ingests Binance Futures tick data over WebSockets, normalises and persists it to indexed SQLite, resamples into multi-timeframe OHLCV, and computes pair-trading statistics behind an interactive dashboard.
@@ -173,8 +169,7 @@ Ingests Binance Futures tick data over WebSockets, normalises and persists it to
 </details>
 
 <details>
-<summary><b>▸ CommunityAI — meeting transcription & content moderation platform</b></summary>
-
+<summary><b>▸ CommunityAI — meeting transcription &amp; content moderation platform</b></summary>
 <br />
 
 Whisper-powered speech-to-text service that turns raw meeting audio into minutes and action items, paired with a tuned multimodal moderation layer surfaced through a React dashboard and a Discord bot.
@@ -190,7 +185,6 @@ Whisper-powered speech-to-text service that turns raw meeting audio into minutes
 
 <details>
 <summary><b>▸ Earlier builds</b></summary>
-
 <br />
 
 | Project | Year | Stack | What it does |
@@ -266,7 +260,9 @@ Whisper-powered speech-to-text service that turns raw meeting audio into minutes
 <div align="center">
 
 <img src="https://img.shields.io/badge/B.Tech%20Electronics%20%26%20Telecommunication-Vishwakarma%20Institute%20of%20Technology%2C%20Pune-00FF41?style=for-the-badge&logo=bookstack&logoColor=00FF41&labelColor=010409" alt="Education" />
+
 <br /><br />
+
 <img src="https://img.shields.io/badge/Nov%202022%20--%202026-00B32D?style=for-the-badge&logoColor=00FF41&labelColor=010409" alt="Duration" />
 <img src="https://img.shields.io/badge/GPA-8.31%20%2F%2010-00B32D?style=for-the-badge&logoColor=00FF41&labelColor=010409" alt="GPA" />
 
@@ -280,20 +276,7 @@ Whisper-powered speech-to-text service that turns raw meeting audio into minutes
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SiddhantSwan12&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_radius=6&title_color=00FF41&text_color=8B949E&icon_color=00FF41&bg_color=010409&border_color=00B32D&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=SiddhantSwan12&border_radius=6&background=010409&border=00B32D&stroke=00B32D&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantSwan12&layout=compact&langs_count=10&count_private=true&hide_border=false&border_radius=6&title_color=00FF41&text_color=8B949E&bg_color=010409&border_color=00B32D" alt="Top languages" />
-
-</div>
-
----
-
-## `$ ls /trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SiddhantSwan12&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+<img height="180" src="https://streak-stats.demolab.com?user=SiddhantSwan12&border_radius=6&background=010409&border=00B32D&stroke=00B32D&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 
 </div>
 
